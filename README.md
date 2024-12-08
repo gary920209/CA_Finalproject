@@ -38,5 +38,4 @@ And the following table illustrates the input / output description of this syste
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/gary920209/CA_Finalproject
-.git
+   git clone https://github.com/gary920209/CA_Finalproject.git
