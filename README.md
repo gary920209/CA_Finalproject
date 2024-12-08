@@ -28,9 +28,9 @@ The system architecture is depicted in the following diagram:
 
 This diagram illustrates the integration of the multiplication/division unit, multi-cycle operation handling, and cache system within the CPU.
 
+And the following table illustrates the input / output description of this system.
 ![CPU I/O](./12.png)
 ![CPU I/O](./13.png)
-This table illustrates the input / output description of this system.
 
 ---
 
